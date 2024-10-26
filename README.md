@@ -1,4 +1,4 @@
-# Program Face Detection
+# Program Face Detection ( Valentino Daniel Kusumo 19624107 )
 
 Program ini menggunakan library OpenCV untuk menggunakan fitur - fitur yang ada didalamnya, seperti VideoCapture, detectMultiScale, dan lain lain yang membantu program ini bekerja dengan baik
 
